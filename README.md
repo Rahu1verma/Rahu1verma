@@ -1,8 +1,8 @@
-![logo](https://github.com/Rahu1verma/Icon/blob/main/Banner.jpeg)
+![logo](https://github.com/Rahu1verma/Rahu1verma/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
 <h3 align="center">A passionate AWS Cloud Practitioner from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Rahu1verma/Icon/blob/main/coding.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Rahu1verma/Rahu1verma/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahu1verma&label=Profile%20views&color=0e75b6&style=flat" alt="rahu1verma" /> </p>
 
