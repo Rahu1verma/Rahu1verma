@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps and cloud computing, Docker & Kubernetes at Intellipaat**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rahu1verma](https://github.com/Rahu1verma)
+- 👨‍💻 All of my projects are available at [https://github.com/Rahu1verma/AWS_Hands_On](https://github.com/Rahu1verma/AWS_Hands_On)
 
 - 💬 Ask me about **AWS, Azure, GCP, Docker & Kubernetes**
 
