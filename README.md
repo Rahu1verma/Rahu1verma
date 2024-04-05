@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahu1verma/AWS_Hands_On](https://github.com/Rahu1verma/AWS_Hands_On)
 
-- 💬 Ask me about **AWS, Azure, GCP, Docker & Kubernetes**
+- 💬 Ask me about **AWS, Azure, Docker & Kubernetes**
 
 - 📫 How to reach me **rv60252@gmail.com**
 
