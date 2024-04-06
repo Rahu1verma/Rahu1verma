@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rv60252@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AJCCcWRTVr80V1ReXv0YdgUgr09exFCU?usp=drive_link](https://drive.google.com/drive/folders/1AJCCcWRTVr80V1ReXv0YdgUgr09exFCU?usp=drive_link)
+- 📄 Know about my experiences [https://github.com/Rahu1verma/Rahu1verma/tree/main/Resume](https://github.com/Rahu1verma/Rahu1verma/tree/main/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
