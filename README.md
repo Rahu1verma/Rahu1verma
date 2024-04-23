@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulverma&label=Profile%20views&color=0e75b6&style=flat" alt="rahulverma" /> </p>
 
-- 🌱 I’m currently learning **DevOps and cloud computing, Docker & Kubernetes at Intellipaat**
+- 🌱 I’m currently learning **DevOps and cloud computing & Docker at Intellipaat**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahu1verma/Projects](https://github.com/Rahu1verma/Projects)
 
