@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rv60252@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Rahu1verma/Projects/blob/main/Resume/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Rahu1verma/Projects/blob/main/Resume/My%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
